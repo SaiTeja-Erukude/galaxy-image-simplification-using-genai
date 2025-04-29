@@ -1,0 +1,19 @@
+.venv
+notes.txt
+
+# Resnet50's data, models, predictions
+resnet50/data
+resnet50/models
+resnet50/predictions
+
+# Raw and processed data
+raw data
+processed
+
+# Postprocessing cGAN's data and models
+postprocess/data
+postprocess/models
+
+# cGAN's data and models
+cGAN/data
+cGAN/models
